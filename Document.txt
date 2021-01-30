@@ -1,0 +1,24 @@
+framework Wizibox
+  Name:'Wizibox'
+  Version:'1.0.0'
+  Content:'framework UI/UX'
+
+Company Name
+  Founded:"2020"
+  Company Name:"qitSource Inc"
+  Industry:"Information Technology Artificial intelligence Security"
+  Development team manager:"Aryia Behroziuan"
+
+Technologies used
+  1."Artificial intelligence"
+  2."Python"
+  3."HTML5"
+  4."CSS"
+  5."JavaScript"
+  6."Bootstrap"
+  7."nodejs"
+  8."CodeDoxs"
+
+  help Company: 'https://aryia-behroziuan.github.io/about/'
+  Website Company: 'https://aryia-behroziuan.github.io/web/'
+  GitHub: 'https://github.com/Aryia-Behroziuan'
